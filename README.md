@@ -1,5 +1,5 @@
 # MondorianMaker
-<img src="***.jpg" width="300">
+<img src="mondrian25.png" width="300">
 MondorianMakerは、幾何学的な形状と原色を使用してモンドリアン風の抽象芸術を生成するPythonスクリプトです。
 
 ## 概要
